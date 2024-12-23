@@ -2,8 +2,8 @@
 layout: page
 title: Explainable Rip Current Detection
 description: XAI | YOLO | Faster-RCNN | Object Detection | Computer Vision | Deep Learning
-img: assets/img/12.jpg
-importance: 1
+img: assets/img/1.jpg
+importance: 2
 category: greenblue
 related_publications: true
 ---

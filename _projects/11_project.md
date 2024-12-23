@@ -2,7 +2,7 @@
 layout: page
 title: Rainfall prediction
 description: 2022 📅 | Regression | Time-series forecasting | deep learning
-img: assets/img/6.jpg
+img: assets/img/11.jpg
 importance: 4
 category: pusan national university
 ---

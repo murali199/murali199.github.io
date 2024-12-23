@@ -2,7 +2,7 @@
 layout: page
 title: Image Inpainting
 description:  CV, Generative Adversarial Network
-img: assets/img/9.jpg
+img: assets/img/8.jpg
 importance: 2
 category: personal
 ---

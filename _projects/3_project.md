@@ -2,7 +2,7 @@
 layout: page
 title: Buildings footprint segmentation
 description: Object Segmentation | Satelite Imagery | Sentinal Dataset | Computer Vision | Deep Learning
-img: assets/img/7.jpg
+img: assets/img/3.jpg
 # redirect: https://unsplash.com
 importance: 3
 category: greenblue

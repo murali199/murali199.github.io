@@ -2,8 +2,8 @@
 layout: page
 title: Coastal Trash Detection
 description: CV, Object Detection, YOLO, Data Analysis
-img: assets/img/4.jpg
-importance: 4
+img: assets/img/6.jpg
+importance: 5
 category: greenblue
 ---
 

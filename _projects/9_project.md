@@ -2,8 +2,8 @@
 layout: page
 title: Korean Language Chatbot
 description: LLM
-img: assets/img/6.jpg
-importance: 4
+img: assets/img/9.jpg
+importance: 6
 category: greenblue
 ---
 

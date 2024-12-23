@@ -2,7 +2,7 @@
 layout: page
 title: Fungal Spore Detector
 description: Computer Vision | Object Detection
-img: assets/img/6.jpg
+img: assets/img/10.jpg
 importance: 4
 category: personal
 ---

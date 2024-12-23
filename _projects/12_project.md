@@ -2,7 +2,7 @@
 layout: page
 title: API Security
 description: AI | Academic projects
-img: assets/img/6.jpg
+img: assets/img/12.jpg
 importance: 4
 category: pusan national university1
 ---

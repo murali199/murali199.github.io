@@ -2,7 +2,7 @@
 layout: page
 title:  Fashion Retailing Sales Forecasting
 description: Recommendation System | Multi-modality | Transformer | Computer Vision | Natural Language Processing | Master's thesis work
-img: assets/img/7.jpg
+img: assets/img/4.jpg
 importance: 3
 category: pusan national university
 ---
