@@ -2,7 +2,7 @@
 layout: page
 title: Weakly-supervised Rip Current Segmentation
 description: Box-supervised Segmentation | CondInst | Detectron2 | Semi Segmentation | Object Segmentation | Computer Vision | Deep Learning
-img: assets/img/2.jpg
+img: assets/img/10.jpg
 importance: 1
 category: greenblue
 ---
