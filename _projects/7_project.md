@@ -2,10 +2,9 @@
 layout: page
 title:  Aircraft Engine Predictive Maintenance
 description: Regression | Time-series | SVM | RNN | LSTM | Matplotlib
-img: assets/img/7.jpg
-importance: 1
+img: assets/img/project_img/Aircraft Engine Predictive Maintenance.jpg
+importance: 2
 category: pusan national university
-related_publications: true
 ---
 
 * Analyzed the time-series data and developed regression models to predict engine failures and detect anomalies.

@@ -2,9 +2,9 @@
 layout: page
 title: EDUMAAT - Education Management System
 description: JD Software
-img: assets/img/6.jpg
-importance: 4
-category: software development1
+# img: assets/img/6.jpg
+importance: 3
+category: software development
 ---
 
 * Education Management System (EMS) is a web application product like ERP tool.

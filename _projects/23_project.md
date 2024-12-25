@@ -3,7 +3,7 @@ layout: page
 title: Hospifieds Andriod App
 description: Ezeal solutions | Internship
 #img: assets/img/6.jpg
-importance: 4
+importance: 5
 category: software development
 ---
 

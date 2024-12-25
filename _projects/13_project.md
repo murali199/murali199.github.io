@@ -2,9 +2,9 @@
 layout: page
 title: Scrutinized Segmentation Methods for Cardiac Analysis Using Convolutional Neural Networks
 description: Ungraduate thesis work
-img: assets/img/12.jpg
-importance: 4
-category: personal
+# img: assets/img/12.jpg
+importance: 1
+category: anna university
 ---
 
 * This project is my bachelors (undergraduate) thesis work.

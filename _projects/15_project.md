@@ -2,9 +2,9 @@
 layout: page
 title: APM - Employee management software
 description: Adaptive Bizapp
-img: assets/img/6.jpg
-importance: 4
-category: software development1
+# img: assets/img/6.jpg
+importance: 2
+category: software development
 ---
 
 * Developed dashboards and several modules.

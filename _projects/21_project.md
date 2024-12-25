@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Andriod Application
+title: Sterio Matching Andriod Application
 description: academic projects | anna university | indra ganesan college of engineering
-img: assets/img/6.jpg
-importance: 4
-category: software development1
+# img: assets/img/6.jpg
+importance: 2
+category: anna university
 ---
 
 * It was an application that can be useful for visually-challenged people.

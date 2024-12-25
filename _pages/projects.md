@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of my cool projects.
+description: A curated collection of my cool projects. `⭐` indicates a major project with a publication.  
 nav: true
 nav_order: 3
-display_categories: [greenblue, pusan national university, personal, software development]
+display_categories: [greenblue, pusan national university, personal, anna university, software development]
 horizontal: false
 ---
 

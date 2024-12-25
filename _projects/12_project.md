@@ -4,7 +4,7 @@ title: API Security
 description: AI | Academic projects
 # img: assets/img/12.jpg
 importance: 4
-category: software development
+category: pusan national university
 ---
 
 * This project was done for the AI security and vulnerabilities course.

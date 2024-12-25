@@ -7,7 +7,7 @@ first_name: Muralidharan
 middle_name: 
 last_name: Rajendran
 contact_note: >
-  You can contact me via Linkedin or e-mail.
+  You can contact me via either e-mail or Linkedin.
 # description: > # the ">" symbol means to ignore newlines until "footer_text:"
 #  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -159,7 +159,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
@@ -343,6 +343,17 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
+  
+# -----------------------------------------------------------------------------
+# Jekyll Polyglot
+# -----------------------------------------------------------------------------
+
+# languages: ["en", "ru"]
+# default_lang: "en"
+# exclude_from_localization: ["assets"]
+# lang_from_path: true
+# country_flag: false # set true for allowing flag symbol in language toggle
+# parallel_localization: false
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
